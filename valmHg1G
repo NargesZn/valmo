@@ -1,12 +1,4 @@
 
-        <meta charset="utf-8" />
-        <link rel="icon" href="/favicon.png" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="theme-color" content="#000000" />
-        <link rel="apple-touch-icon" href="/izumi-logo-tiny.png" />
-        <link rel="manifest" href="/manifest.json" />
-        <title>iZUMi.finance</title>
-        <!-- For SEO-->
         <meta name="keywords" content="izi, iZi, IZI, iZUMi, izumi.finance"/>
         <!--meta name="description" content="iZUMi Finance"/-->
         <meta data-n-head="true" data-hid="description" name="description" content="Liquidity Redefined - A multi-chain DeFi protocol providing One-Stop Liquidity as a Service (LaaS)."/>
