@@ -1,15 +1,5 @@
 
-        <meta property="twitter:title" content="iZiSwap: a Multi-Chain DEX" >
-        <meta property="twitter:image" content="https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/assets/iziswap.png" >
-        <meta property="twitter:image:alt" content="Liquidity Redefined - A multi-chain DeFi protocol providing One-Stop Liquidity as a Service (LaaS)." >
-        <!-- og: Display on social networking sites such as WhatsApp, Facebook, Instagram, etc. -->
-        <meta property="og:title" content="iZiSwap: a Multi-Chain DEX" />
-        <meta property="og:type" content="website" >
-        <meta property="og:image" content="https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/assets/iziswap.png" >
-        <meta property="og:url" content="https://izumi.finance/trade/swap" >
-        <meta property="og:description" content="Liquidity Redefined - A multi-chain DeFi protocol providing One-Stop Liquidity as a Service (LaaS).">
-        <meta property="og:image:width" content="1920" >
-        <meta property="og:image:height" content="1080" >
+      
         <style>
             body,
             blockquote,
