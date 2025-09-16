@@ -1,9 +1,4 @@
 
-        <meta name="keywords" content="izi, iZi, IZI, iZUMi, izumi.finance"/>
-        <!--meta name="description" content="iZUMi Finance"/-->
-        <meta data-n-head="true" data-hid="description" name="description" content="Liquidity Redefined - A multi-chain DeFi protocol providing One-Stop Liquidity as a Service (LaaS)."/>
-         <!-- twitter: Display on twitter. -->
-        <meta property="twitter:card" content="summary_large_image" >
         <meta property="twitter:title" content="iZiSwap: a Multi-Chain DEX" >
         <meta property="twitter:image" content="https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/assets/iziswap.png" >
         <meta property="twitter:image:alt" content="Liquidity Redefined - A multi-chain DeFi protocol providing One-Stop Liquidity as a Service (LaaS)." >
