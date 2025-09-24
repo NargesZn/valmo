@@ -1,14 +1,6 @@
  
 
-            .pulsating-circle::after {
-                content: '';
-                position: absolute;
-                left: -10%;
-                top: -10%;
-                display: block;
-                width: 120%;
-                height: 120%;
-                background-color: white;
+           
                 border-radius: 15px;
                 box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
                 /* animation: pulse-dot 960ms
