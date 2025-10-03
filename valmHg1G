@@ -8,7 +8,6 @@
                 align-items: center;
                 box-sizing: border-box;
                 position: absolute;
-            "
             id="init-load"
         >
             <!--div class="pulsating-circle"-->
